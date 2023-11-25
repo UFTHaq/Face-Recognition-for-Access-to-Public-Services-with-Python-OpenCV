@@ -79,3 +79,7 @@ https://developers.google.com/sheets/api/reference/rest.
 * Pandas: Pandas Documentation [Electronic resource] - Access mode: https://pandas.pydata.org/docs/ Philip Chen, C. L.,
 & Zhang, C. Y. (2014). Data-intensive applications, challenges, techniques and technologies: A survey on Big Data.
 Information Sciences, 275, 314–347. https://doi.org/10.1016/j.ins.2014.01.015
+
+<p align="center">
+  <b>If you consider this page is useful, please leave a star</b>
+</p>
