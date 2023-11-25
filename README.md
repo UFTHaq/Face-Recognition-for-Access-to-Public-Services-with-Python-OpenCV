@@ -22,7 +22,7 @@ Face Recognition using OpenCV, Python, Dlib, and Google Sheets API as databases 
 <p align="center">
   <img src="https://github.com/UFTHaq/Face-Recognition-for-Access-to-Public-Services/assets/104829519/508aa4bf-a807-4caa-954e-a565e519c8e4"/>
 </p>
-<p><b>Tools used :</b>Python, dlib, library face-recognition, opencv, tkinter, google sheets api</p>
+<p><b>Tools used :</b>Python, dlib, library face-recognition, opencv, google sheets api</p>
 <p>You can check this repo of face-recognition: https://github.com/ageitgey/face_recognition</p>
 
 ## III. Testing
