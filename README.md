@@ -1,6 +1,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/UFTHaq/Face-Recognition-for-Access-to-Public-Services?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/UFTHaq/Face-Recognition-for-Access-to-Public-Services?label=Python&logo=python&logoColor=white&style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/UFTHaq/Face-Recognition-for-Access-to-Public-Services?logo=Jupyter&style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UFTHaq/Face-Recognition-for-Access-to-Public-Services?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/UFTHaq/Face-Recognition-for-Access-to-Public-Services?color=red&style=for-the-badge)
 
